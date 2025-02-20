@@ -1,1 +1,1 @@
-# Whisper-DI-MEFT
+# Interspeech 2025 Submission
