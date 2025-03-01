@@ -1,6 +1,6 @@
 # Interspeech 2025 Submission
 
-The project is developed on [Transformers](https://github.com/huggingface/transformers)  4.47.0
+The project is developed based on [Transformers](https://github.com/huggingface/transformers) 4.47.0
 
 [whisper_modified](./whisper_modified) contains the implementations of Memory-Efficient Fine-Tuninig (MEFT) methods on the WhisperForAudioClassification class.
 
