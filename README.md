@@ -1,4 +1,4 @@
-# Interspeech 2025 Submission
+# APSIPA 2025 ASC Submission
 
 The project is developed based on [Transformers](https://github.com/huggingface/transformers) 4.47.0
 
